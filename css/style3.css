@@ -31,6 +31,9 @@
 .mh-menu li:nth-child(4):hover a{
 	background-color: rgba(209, 166, 106, 0.9);
 }
+.mh-menu li:nth-child(5):hover a{
+	background-color: rgba(210, 61, 97, 0.9);
+}
 .mh-menu li a span{
 	display:block;
 }
