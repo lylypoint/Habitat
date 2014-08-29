@@ -130,9 +130,9 @@ footer {
 }
 
 #rights {
-  width: 50%;
+  width: 100%;
   height: 20px;
-  float: right;
+ /* float: right;*/
 }
 
 #rights p {
@@ -140,6 +140,15 @@ footer {
   color: white;
   font-size: 12px;
   text-align: center;
+}
+
+.patrocinios{
+  width: 100px;
+  height: 100px;
+}
+
+.centro{
+  padding-left: 40px;
 }
 
 #cont-nosotros {
