@@ -514,7 +514,7 @@ a .taller-pic:hover {
 .concurso {
   width: 85%;
   padding-left: 50px;
-  margin-top: 70px;
+  margin-top: 38px;
   margin-bottom: 50px;
 }
 
@@ -527,27 +527,29 @@ a .taller-pic:hover {
 .concurso p {
   font-size: 20px;
   line-height: 30px;
+
 }
 
 .concurso img {
   display: block;
   margin-top: 20px;
+  margin-bottom: 20px;
   margin-left: auto;
   margin-right: auto;
 }
 
 #bascket h4{
-  color: #960F17;
+  color: #002c82;
   text-align: center;
 }
 
 #bascket p {
-  color: #960F17;
+  color: #002c82;
 
 }
 
 #bascket img {
-  border: 10px solid #960F17;
+  border: 10px solid #002c82;
   box-shadow: 2px 2px 2px black;
 }
 
@@ -682,6 +684,56 @@ a .taller-pic:hover {
   color: white;
   text-shadow: 1px 1px 1px black;
 }
+
+.precios {
+  width: 100%;
+}
+
+.precios p {
+  text-align: center;
+  font-size: 55px;
+  margin: 75px 0 25px 0;
+  color: #098393;
+  text-shadow: 1px 1px 1px black;
+}
+
+#p1 {
+  text-align: center;
+  font-size: 55px;
+  margin: 75px 0 25px 0;
+  color: #333;
+  text-shadow: 1px 1px 1px black;
+}
+
+#p2 {
+  text-align: center;
+  font-size: 55px;
+  margin: 75px 0 25px 0;
+  color: #333;
+  text-shadow: 1px 1px 1px black;
+}
+#p3 {
+  text-align: center;
+  font-size: 55px;
+  margin: 75px 0 25px 0;
+  color: #333;
+  text-shadow: 1px 1px 1px black;
+}
+#p4 {
+  text-align: center;
+  font-size: 55px;
+  margin: 75px 0 25px 0;
+  color: #333;
+  text-shadow: 1px 1px 1px black;
+}
+#p5 {
+  text-align: center;
+  font-size: 55px;
+  margin: 75px 0 25px 0;
+  color: #333;
+  text-shadow: 1px 1px 1px black;
+}
+
 
 
 /*FIESTAS*/
