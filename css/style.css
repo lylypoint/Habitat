@@ -320,6 +320,89 @@ a .taller-pic:hover {
   text-decoration: none;
 }
 
+#lettering {
+  background-image: url(../img/thumbs/alejo_thumb.png);
+  width: 120px;
+  height: 120px;
+  text-decoration: none;
+}
+
+#comics  {
+  background-image: url(../img/thumbs/ivans_thumb.png);
+  width: 120px;
+  height: 120px;
+  text-decoration: none;
+}
+
+#edicion  {
+  background-image: url(../img/thumbs/cristian_thumb.png);
+  width: 120px;
+  height: 120px;
+  text-decoration: none;
+}
+
+#paper  {
+  background-image: url(../img/thumbs/oscar_thumb.png);
+  width: 120px;
+  height: 120px;
+  text-decoration: none;
+}
+
+#modelado  {
+  background-image: url(../img/thumbs/rafael_thumb.png);
+  width: 120px;
+  height: 120px;
+  text-decoration: none;
+}
+
+#serfigrafia  {
+  background-image: url(../img/thumbs/sinasignar_thumb.png);
+  width: 120px;
+  height: 120px;
+  text-decoration: none;
+}
+
+#admn  {
+  background-image: url(../img/thumbs/mariela_thumb.png);
+  width: 120px;
+  height: 120px;
+  text-decoration: none;
+}
+
+#foto  {
+  background-image: url(../img/thumbs/sinasiganr_thumb.png);
+  width: 120px;
+  height: 120px;
+  text-decoration: none;
+}
+
+#sketch  {
+  background-image: url(../img/thumbs/sinasignar_thumb.png);
+  width: 120px;
+  height: 120px;
+  text-decoration: none;
+}
+
+#revit  {
+  background-image: url(../img/thumbs/sinasignar_thumb.png);
+  width: 120px;
+  height: 120px;
+  text-decoration: none;
+}
+
+#land  {
+  background-image: url(../img/thumbs/sinasignar_thumb.png);
+  width: 120px;
+  height: 120px;
+  text-decoration: none;
+}
+
+#maquetas  {
+  background-image: url(../img/thumbs/sinasignar_thumb.png);
+  width: 120px;
+  height: 120px;
+  text-decoration: none;
+}
 #prueba:hover {
   opacity: 1;
 
