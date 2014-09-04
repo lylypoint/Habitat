@@ -447,6 +447,12 @@ a .taller-pic:hover {
   text-decoration: none;
 }
 
+#presntacion {
+  background-image: url(../img/thumbs/soon_thumb.png);
+  width: 120px;
+  height: 120px;
+  text-decoration: none;
+}
 #prueba:hover {
   opacity: 1;
 
