@@ -130,9 +130,11 @@ footer {
 }
 
 #rights {
-  width: 100%;
+  width: 740px;
   height: 100px;
 padding-top: 20px;
+margin-left: auto;
+margin-right: auto;
  /* float: right;*/
 }
 
@@ -232,6 +234,14 @@ a {
 }
 
 #cont-taller {
+  width: 61%;
+  display: inline-block;
+  margin-left: 39%;
+  position: relative;
+  margin-top: 50px;
+}
+
+#cont-taller2 {
   width: 61%;
   display: inline-block;
   margin-left: 39%;
@@ -447,12 +457,14 @@ a .taller-pic:hover {
   text-decoration: none;
 }
 
-#presntacion {
+#presentacion {
   background-image: url(../img/thumbs/soon_thumb.png);
   width: 120px;
   height: 120px;
   text-decoration: none;
 }
+
+
 #prueba:hover {
   opacity: 1;
 
@@ -768,6 +780,38 @@ a .taller-pic:hover {
 
 
 .toy4 {
+  width: 38%;
+  height: auto;
+  position: absolute;
+  left: 50px;
+  margin-top: 150px;
+
+  animation: fadeInLeft 1s;
+  -webkit-animation: fadeInLeft 1s;
+  -webkit-animation: fadeInLeft 1s;
+  -moz-animation: fadeInLeft 1s;
+  -o-animation: fadeInLeft 1s;
+
+
+}
+
+.toy5 {
+  width: 38%;
+  height: auto;
+  position: absolute;
+  left: 50px;
+  margin-top: 150px;
+
+  animation: fadeInLeft 1s;
+  -webkit-animation: fadeInLeft 1s;
+  -webkit-animation: fadeInLeft 1s;
+  -moz-animation: fadeInLeft 1s;
+  -o-animation: fadeInLeft 1s;
+
+
+}
+
+.toy6 {
   width: 38%;
   height: auto;
   position: absolute;
@@ -1392,4 +1436,128 @@ margin-top: -55px;
 .rollIn {
   -webkit-animation-name: rollIn;
   animation-name: rollIn;
+}
+
+
+/*RESPONSIVO*/
+
+
+@media only screen and (max-width:768px) { 
+
+
+  #rights {
+  width: 600px;
+}
+
+
+  .patrocinios {
+  width: 75px;
+  height: 75px;
+  padding-left: 28px;
+}
+  
+
+  #toy1 {
+  width: 50%;
+}
+
+
+  nav {
+    width: 95%;
+  }
+
+  nav ul li {
+    padding-right: 17px;
+  }
+
+  #p1 {
+    font-size: 30px;
+    text-shadow: none;
+  }
+
+  #p2 {
+    font-size: 30px;
+    text-shadow: none;
+  }
+
+  #p3 {
+    font-size: 30px;
+    text-shadow: none;
+  }
+
+  #p4 {
+    font-size: 30px;
+    text-shadow: none;
+  }
+
+  #p5 {
+    font-size: 30px;
+    text-shadow: none;
+  }
+
+  .precios {
+    width: 95%;
+  }
+
+  .tallerde p {
+    font-size: 30px;
+    text-shadow: 0 1px 1px gray;
+
+  }
+
+  .toy3 {
+    width: 80%;
+    position: relative;
+    top: -128px;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  #cont-taller {
+    width: 100%;
+    margin-left: 0;
+    position: relative;
+    top: -200px;
+  }
+
+  .taller-single-titulo p {
+    font-size: 25px;
+  }
+
+  .taller {
+    width: 85%;
+    left: 7%;
+  }
+
+  .toy4 {
+    width: 70%;
+    position: relative;
+    top: -128px;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  #cont-concursos {
+    width: 100%;
+    margin-left: 0;
+    position: relative;
+    top: -175px;
+  }
+
+  .toy5 {
+    width: 70%;
+    position: relative;
+    top: -128px;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  #cont-fiestas {
+    width: 100%;
+    margin-left: 0;
+    position: relative;
+    top: -175px;
+  }
+
+
 }

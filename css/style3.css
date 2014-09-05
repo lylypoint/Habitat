@@ -81,3 +81,38 @@
 ul {
 	list-style: none;
 }
+
+
+
+/*RESPONSIVO*/
+
+
+@media only screen and (max-width:768px) {
+
+	.mh-menu {
+    width: 80%;
+    padding: 0;
+    margin-left: 0;
+  }
+
+  .mh-menu li {
+    width: 200px;
+  }
+
+  .mh-menu li a {
+    width: 180px;
+    height: 86px;
+  }
+
+  .mh-menu li a span:nth-child(2) {
+    font-size: 20px;
+  }
+
+  .mh-menu li:hover img {
+  	left: 200px;
+  }
+
+  .mh-menu li img {
+  	width: 170px;
+  }
+}
