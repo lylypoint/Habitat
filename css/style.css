@@ -1136,6 +1136,69 @@ color: #EAA691;
 font-size: 80px;
 margin-top: -55px;
 }
+/*
+MINIMENU*/
+
+#menu-mobile {
+  display: none;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50px;
+  height: auto;
+
+}
+
+#menu-mobile img {
+    width: 40px;
+    height: auto;
+    margin-top: 5px;
+}
+
+.mini-menuitem {
+  width: 100%;
+    height:70px;
+    text-decoration: none;
+    color: white;
+    font-family: 'Raleway', 'Sans-serif';
+    font-size: 30px;
+    text-align: center;
+    display: block;
+    padding-top: 30px;
+}
+
+#mini-menu {
+    display: block;
+    width: 50px;
+    height: 50px;
+    float: right;
+    margin-top: 20px;
+    margin-right: 7px;
+
+  }
+
+  #mini-menu a img{
+    width: 50px;
+    height: 50px;
+    
+  }
+
+  #pop-up {
+    position: relative;
+    top: -30px;
+    background-color: rgba(211, 66,125, .8);
+  }
+
+  #conten-pop-up {
+    width: 100%;
+    height:560px;
+    margin-top: 30px;
+  }
+
+  .mini-menuitem:hover {
+    opacity: .7;
+    background-color: #9B4266;
+  }
+
 
 
 
@@ -1561,3 +1624,146 @@ margin-top: -55px;
 
 
 }
+
+
+@media only screen and (max-width:480px) {
+
+  .logo1 {
+    width: 70%;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+  }
+
+  #semana {
+    width: 100%;
+    margin: 0;
+
+  }
+
+  #toy1 {
+    display: none;
+  }
+
+  #rights {
+    width: 85%;
+    height: 50px;
+  }
+
+  .patrocinios {
+    width: 45px;
+    height: 45px;
+    padding-left: 10px;
+  }
+
+
+  footer {
+    height: 80px;
+  }
+
+  .logo2 {
+    width: 15%;
+  }
+
+  #cont-nosotros {
+    width: 90%;
+    margin-left: 5%;
+    margin-right: 5%;
+    margin-top: 70px;
+  }
+
+  #cont-nosotros h1 {
+    font-size: 22px;
+    width: 300px;
+  }
+
+  #action {
+    font-size: 20px;
+  }
+
+  .container {
+    min-height: 800px;
+  }
+
+  .container2 {
+    margin-bottom: -30px;
+  }
+
+  #carnet-titulo p {
+    font-size: 40px;
+    margin-top: -61px;
+  }
+
+  .toy6 {
+    width: 80%;
+    margin-top: 0;
+    margin-left: auto;
+    margin-right: auto;
+    position: relative;
+  }
+
+  #cont-carnets {
+    width: 100%;
+    margin-left: 0;
+  }
+
+  #p1 {
+    margin-top: 35px;
+  }
+
+  #p2 {
+    margin-top: 35px;
+  }
+
+  #p3 {
+    margin-top: 35px;
+  }
+
+  #p4 {
+    margin-top: 35px;
+  }
+
+  #p5 {
+    margin-top: 35px;
+  }
+
+  #taller-titulo p {
+    font-size: 30px;
+    margin-top: -56px;
+  }
+
+  .toy2 {
+    width: 80%;
+    margin-top: 0;
+    position: relative;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  #cont-conferencias {
+    width: 100%;
+    margin-left: 0;
+  }
+
+  #cont-taller2 {
+    width: 100%;
+    margin-left: 0;
+  }
+
+  #soon-text {
+    font-size: 58px;
+    margin-top: -19px;
+  }
+
+  nav {
+    display: none;
+  }
+
+  #menu-mobile {
+    display: block;
+  }
+
+
+}
+
+

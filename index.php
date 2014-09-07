@@ -14,6 +14,9 @@
     <body>
 
       <header class="gray">
+        <div id="menu-mobile">
+          <a href="mobile.html"><img src="img/mini-menu.png"> </a>
+        </div>
         <nav>
           <ul>
           <li>
@@ -45,7 +48,7 @@
         
       </div>
 
-      <div class="container">
+      <div class="container container2">
           <img class="fadeInLeft logo1" src="img/alamexicana-big.png">
 
           <img class="flipInY" id="semana" src="img/decimonovena-big.png">
