@@ -17,6 +17,7 @@
         <div id="menu-mobile">
           <a href="mobile.html"><img src="img/mini-menu.png"> </a>
         </div>
+
         <nav>
           <ul>
           <li>
@@ -50,7 +51,6 @@
 
       <div class="container container2">
           <img class="fadeInLeft logo1" src="img/alamexicana-big.png">
-
           <img class="flipInY" id="semana" src="img/decimonovena-big.png">
           <img id="toy1" src="img/10.png">        
       </div>
@@ -62,6 +62,7 @@
         <img class="patrocinios centro" src="img/logodg.png">
         <img class="patrocinios centro" src="img/radio.png">
         <img class="patrocinios centro" src="img/printyellow.png">
+        <img class="patrocinios2 centro" src="img/megacable.png">
           <!-- <p>
             Hermosillo, Son. Derechos reservados 2014
           </p> -->

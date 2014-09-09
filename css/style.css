@@ -1512,15 +1512,20 @@ MINIMENU*/
 
 
   #rights {
-  width: 600px;
+  width: 100%;
 }
 
 
   .patrocinios {
   width: 75px;
   height: 75px;
-  padding-left: 28px;
+  padding-left: 10px;
 }
+ .patrocinios2 {
+    width: 262px;
+    height: 75px;
+    padding-left: 10px;
+  }
   
 
   #toy1 {
@@ -1649,14 +1654,20 @@ MINIMENU*/
   }
 
   #rights {
-    width: 85%;
+    width: 100%;
     height: 50px;
   }
 
   .patrocinios {
     width: 45px;
     height: 45px;
-    padding-left: 10px;
+    padding-left: 1px;
+  }
+
+   .patrocinios2 {
+    width: 157px;
+    height: 45px;
+    padding-left: 1px;
   }
 
 
