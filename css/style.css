@@ -460,8 +460,16 @@ a .taller-pic:hover {
   height: 120px;
   text-decoration: none;
 }
+
 #maquetasbasicas {
   background-image: url(../img/thumbs/sergio_thumb.png);
+  width: 120px;
+  height: 120px;
+  text-decoration: none;
+}
+
+#maquetasbasicas2 {
+  background-image: url(../img/thumbs/vladimir_thumb.png);
   width: 120px;
   height: 120px;
   text-decoration: none;
