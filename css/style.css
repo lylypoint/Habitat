@@ -149,14 +149,12 @@ margin-right: auto;
   width: 100px;
   height: 100px;
 }
-.patrocinios2{
-  width: 350px;
-  height: 100px;
-}
 .centro{
-  padding-left: 60px;
+  padding-left: 30px;
 }
-
+.hermosillo{
+  margin-top: -10px;
+}
 #cont-nosotros {
 width: 50%;
 min-height: 1000px;
@@ -234,6 +232,8 @@ a {
   -webkit-animation: fadeInLeft 1s;
   -moz-animation: fadeInLeft 1s;
   -o-animation: fadeInLeft 1s;
+
+
 }
 
 #cont-taller {
@@ -738,64 +738,6 @@ a .taller-pic:hover {
   box-shadow: 2px 2px 2px black;
 }
 
-#instagram h4{
-  color: #22606f;
-  text-align: center;
-}
-
-#instagram p {
-  color: #22606f;
-
-}
-
-#instagram img {
-  border: 10px solid #22606f;
-  box-shadow: 2px 2px 2px black;
-}
-
-#nuevo h4{
-  color: #eca500;
-  text-align: center;
-}
-
-#nuevo p {
-  color: #eca500;
-
-}
-
-#nuevo img {
-  border: 10px solid #eca500;
-  box-shadow: 2px 2px 2px black;
-}
-#nuevo2 h4{
-  color: #75a31a;
-  text-align: center;
-}
-
-#nuevo2 p {
-  color: #75a31a;
-
-}
-
-#nuevo2 img {
-  border: 10px solid #75a31a;
-  box-shadow: 2px 2px 2px black;
-}
-#nuevo3 h4{
-  color: #b74d00;
-  text-align: center;
-}
-
-#nuevo3 p {
-  color: #b74d00;
-
-}
-
-#nuevo3 img {
-  border: 10px solid #b74d00;
-  box-shadow: 2px 2px 2px black;
-}
-
 
 .toy4 {
   width: 38%;
@@ -835,6 +777,7 @@ a .taller-pic:hover {
   position: absolute;
   left: 50px;
   margin-top: 150px;
+
 
   animation: fadeInLeft 1s;
   -webkit-animation: fadeInLeft 1s;
@@ -1046,35 +989,35 @@ a .taller-pic:hover {
   border: 10px solid #BA65A1;
   box-shadow: 2px 2px 2px black;
 }
-
 #miercoles h4{
-  color: #69955B;
+  color: #D47C29;
   text-align: center;
 }
 
 #miercoles p {
-  color: #69955B;
+  color: #D47C29;
 
 }
 
 #miercoles img {
-  border: 10px solid #69955B;
+  border: 10px solid #D47C29;
   box-shadow: 2px 2px 2px black;
 }
 #jueves h4{
-  color: #D47C29;
+  color: #69955B;
   text-align: center;
 }
 
 #jueves p {
-  color: #D47C29;
+  color: #69955B;
 
 }
 
 #jueves img {
-  border: 10px solid #D47C29;
+  border: 10px solid #69955B;
   box-shadow: 2px 2px 2px black;
 }
+
 #viernes h4{
   color: #B02260;
   text-align: center;
@@ -1532,16 +1475,11 @@ MINIMENU*/
 
 
   .patrocinios {
-  width: 75px;
-  height: 75px;
-  padding-left: 10px;
+  width: 50px;
+  height: 50px;
+  padding-left: 5px;
 }
- .patrocinios2 {
-    width: 262px;
-    height: 75px;
-    padding-left: 10px;
-  }
-  
+
 
   #toy1 {
   width: 50%;
@@ -1674,16 +1612,11 @@ MINIMENU*/
   }
 
   .patrocinios {
-    width: 45px;
-    height: 45px;
+    width: 22px;
+    height: 22px;
     padding-left: 1px;
   }
 
-   .patrocinios2 {
-    width: 157px;
-    height: 45px;
-    padding-left: 1px;
-  }
 
 
   footer {
